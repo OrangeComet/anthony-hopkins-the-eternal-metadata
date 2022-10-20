@@ -1,0 +1,43 @@
+{
+    "name": "THE REBEL #token_id",
+    "description": "Pushing boundaries and breaking rules is their daily grind. True Rebels are wild, untamed beasts; attempting to control one is futile. On the inside, however, Rebels are tragic loners, misunderstood souls who sometimes choose to use their power for good, but not always...",
+    "image": "https://ipfs.orangecomet.io/ipfs/QmPb5tgbQGWRQ1SN3mu1qyQjb7TKVVRjayfbSyzmnAuSfJ/the-rebel--29.jpg",
+    "attributes": [
+        {
+            "trait_type": "Head",
+            "value": "Green and Black"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "White"
+        },
+        {
+            "trait_type": "Facial Wearable",
+            "value": "Gold and White Rebel"
+        },
+        {
+            "trait_type": "Background Elements",
+            "value": "Yellow and Black Headpiece"
+        },
+        {
+            "trait_type": "Environment",
+            "value": "Opera Ball Painting 2"
+        },
+        {
+            "trait_type": "Lighting",
+            "value": "Underlit Gold"
+        },
+        {
+            "trait_type": "Status",
+            "value": "Distinguished"
+        },
+        {
+            "trait_type": "Archetype",
+            "value": "The Rebel"
+        },
+        {
+            "trait_type": "Featuring",
+            "value": "Sir Anthony Hopkins"
+        }
+    ]
+}

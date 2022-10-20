@@ -1,0 +1,47 @@
+{
+    "name": "THE JESTER #token_id",
+    "description": "Master of subterfuge, the Jester conducts our entire existence under the guise of mindless comedy. Be amazed, as he juggles our world in his hands, elevating earthly elements with ease.",
+    "image": "https://ipfs.orangecomet.io/ipfs/QmPb5tgbQGWRQ1SN3mu1qyQjb7TKVVRjayfbSyzmnAuSfJ/the-jester--39.jpg",
+    "attributes": [
+        {
+            "trait_type": "Status",
+            "value": "Distinguished"
+        },
+        {
+            "trait_type": "Archetype",
+            "value": "The Jester"
+        },
+        {
+            "trait_type": "Featuring",
+            "value": "Sir Anthony Hopkins"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Merryman"
+        },
+        {
+            "trait_type": "Environment",
+            "value": "Empty Beach"
+        },
+        {
+            "trait_type": "Headwear",
+            "value": "Peacock Ore Crown"
+        },
+        {
+            "trait_type": "Lighting",
+            "value": "Shimmer"
+        },
+        {
+            "trait_type": "Suit",
+            "value": "Paladin"
+        },
+        {
+            "trait_type": "Background Elements",
+            "value": "Gateway"
+        },
+        {
+            "trait_type": "Spheres",
+            "value": "Ruby"
+        }
+    ]
+}

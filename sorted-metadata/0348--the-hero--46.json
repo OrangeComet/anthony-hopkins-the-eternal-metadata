@@ -1,0 +1,39 @@
+{
+    "name": "THE HERO #token_id",
+    "description": "We are all both saints & sinners, conflicted with darkness and light inside of us. This hero battles with himself, facing a constant struggle with his inner demons.",
+    "image": "https://ipfs.orangecomet.io/ipfs/QmPb5tgbQGWRQ1SN3mu1qyQjb7TKVVRjayfbSyzmnAuSfJ/the-hero--46.jpg",
+    "attributes": [
+        {
+            "trait_type": "Head",
+            "value": "White and Black Warpaint"
+        },
+        {
+            "trait_type": "Hood",
+            "value": "Gray Hood"
+        },
+        {
+            "trait_type": "Suit",
+            "value": "Silver Suit"
+        },
+        {
+            "trait_type": "Lighting",
+            "value": "Distant Shore"
+        },
+        {
+            "trait_type": "Environment",
+            "value": "Ballet on the Moon Painting 3"
+        },
+        {
+            "trait_type": "Status",
+            "value": "Distinguished"
+        },
+        {
+            "trait_type": "Archetype",
+            "value": "The Hero"
+        },
+        {
+            "trait_type": "Featuring",
+            "value": "Sir Anthony Hopkins"
+        }
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "name": "THE SAGE #token_id",
+    "description": "The seeker of knowledge, a scholar and free thinker who can impart wisdom onto others. His core desire is to find truth, using intelligence and analysis to understand the world.",
+    "image": "https://ipfs.orangecomet.io/ipfs/QmPb5tgbQGWRQ1SN3mu1qyQjb7TKVVRjayfbSyzmnAuSfJ/the-sage--90.jpg",
+    "attributes": [
+        {
+            "trait_type": "Status",
+            "value": "Distinguished"
+        },
+        {
+            "trait_type": "Archetype",
+            "value": "The Sage"
+        },
+        {
+            "trait_type": "Featuring",
+            "value": "Sir Anthony Hopkins"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Stone and Platinum 1"
+        },
+        {
+            "trait_type": "Background Elements",
+            "value": "Black and Platinum"
+        },
+        {
+            "trait_type": "Environment",
+            "value": "Gold Hooks"
+        },
+        {
+            "trait_type": "Special Element",
+            "value": "Stone and Platinum Roses"
+        },
+        {
+            "trait_type": "Front Elements",
+            "value": "Two Stoney Bones"
+        },
+        {
+            "trait_type": "Suit",
+            "value": "Copper Sulphate Robe"
+        },
+        {
+            "trait_type": "Lighting",
+            "value": "Enlightenment"
+        }
+    ]
+}

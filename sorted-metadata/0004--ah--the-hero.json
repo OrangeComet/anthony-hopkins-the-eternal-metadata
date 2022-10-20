@@ -1,0 +1,36 @@
+{
+    "name": "THE HERO #token_id",
+    "description": "We are all both saints & sinners, conflicted with darkness and light inside of us. This hero battles with himself, facing a constant struggle with his inner demons.",
+    "image": "https://ipfs.orangecomet.io/ipfs/QmPb5tgbQGWRQ1SN3mu1qyQjb7TKVVRjayfbSyzmnAuSfJ/ah--the-hero.jpg",
+    "attributes": [
+        {
+            "trait_type": "Status",
+            "value": "Legendary"
+        },
+        {
+            "trait_type": "Environment",
+            "value": "Sandstorm"
+        },
+        {
+            "trait_type": "Headwear",
+            "value": "Silver White Steel Crown and Black Metal Crown"
+        },
+        {
+            "trait_type": "Suit",
+            "value": "Black"
+        },
+        {
+            "trait_type": "Armor",
+            "value": "Black Carbon"
+        },
+        {
+            "trait_type": "Archetype",
+            "value": "The Hero"
+        },
+        {
+            "trait_type": "Featuring",
+            "value": "Sir Anthony Hopkins"
+        }
+    ],
+    "animation_url": "https://ipfs.orangecomet.io/ipfs/QmPb5tgbQGWRQ1SN3mu1qyQjb7TKVVRjayfbSyzmnAuSfJ/ah--the-hero.mp4"
+}

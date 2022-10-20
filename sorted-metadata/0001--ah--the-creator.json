@@ -1,0 +1,40 @@
+{
+    "name": "THE CREATOR #token_id",
+    "description": "We are all machines, whether we are born, built, or forged. Our world has evolved past our humanity into the eternal essence of our creations. We, the created, have become the creators\u2026",
+    "image": "https://ipfs.orangecomet.io/ipfs/QmPb5tgbQGWRQ1SN3mu1qyQjb7TKVVRjayfbSyzmnAuSfJ/ah--the-creator.jpg",
+    "attributes": [
+        {
+            "trait_type": "Status",
+            "value": "Legendary"
+        },
+        {
+            "trait_type": "Painting",
+            "value": "TA 04"
+        },
+        {
+            "trait_type": "Environment",
+            "value": "Planet in Transformation"
+        },
+        {
+            "trait_type": "Facial Wearable",
+            "value": "Black Carbon Headset"
+        },
+        {
+            "trait_type": "Headwear",
+            "value": "Black Cables"
+        },
+        {
+            "trait_type": "Suit",
+            "value": "Gray Steel"
+        },
+        {
+            "trait_type": "Archetype",
+            "value": "The Creator"
+        },
+        {
+            "trait_type": "Featuring",
+            "value": "Sir Anthony Hopkins"
+        }
+    ],
+    "animation_url": "https://ipfs.orangecomet.io/ipfs/QmPb5tgbQGWRQ1SN3mu1qyQjb7TKVVRjayfbSyzmnAuSfJ/ah--the-creator.mp4"
+}

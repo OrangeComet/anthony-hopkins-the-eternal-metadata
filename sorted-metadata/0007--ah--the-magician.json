@@ -1,0 +1,28 @@
+{
+    "name": "THE MAGICIAN #token_id",
+    "description": "The illusionist who pulls tricks right before our eyes, perpetually renewing and changing, manifesting dreams and apparitions simply by distorting reality.  Just be careful, as they are not quite who they seem.",
+    "image": "https://ipfs.orangecomet.io/ipfs/QmPb5tgbQGWRQ1SN3mu1qyQjb7TKVVRjayfbSyzmnAuSfJ/ah--the-magician.jpg",
+    "attributes": [
+        {
+            "trait_type": "Status",
+            "value": "Legendary"
+        },
+        {
+            "trait_type": "Painting",
+            "value": "Rover II and TA 04 and The Lover"
+        },
+        {
+            "trait_type": "Environment",
+            "value": "Distorted Dreams"
+        },
+        {
+            "trait_type": "Archetype",
+            "value": "The Magician"
+        },
+        {
+            "trait_type": "Featuring",
+            "value": "Sir Anthony Hopkins"
+        }
+    ],
+    "animation_url": "https://ipfs.orangecomet.io/ipfs/QmPb5tgbQGWRQ1SN3mu1qyQjb7TKVVRjayfbSyzmnAuSfJ/ah--the-magician.mp4"
+}

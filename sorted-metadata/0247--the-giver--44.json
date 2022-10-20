@@ -1,0 +1,43 @@
+{
+    "name": "THE GIVER #token_id",
+    "description": "All of us hold the power of the Midas touch... We give to the world by sharing beauty and offering empathy. With the appropriate intention, our gratitude and selflessness can provide comfort and enrich the world around us beyond expectations.",
+    "image": "https://ipfs.orangecomet.io/ipfs/QmPb5tgbQGWRQ1SN3mu1qyQjb7TKVVRjayfbSyzmnAuSfJ/the-giver--44.jpg",
+    "attributes": [
+        {
+            "trait_type": "Status",
+            "value": "Distinguished"
+        },
+        {
+            "trait_type": "Archetype",
+            "value": "The Giver"
+        },
+        {
+            "trait_type": "Featuring",
+            "value": "Sir Anthony Hopkins"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Regular"
+        },
+        {
+            "trait_type": "Lighting",
+            "value": "Neutral"
+        },
+        {
+            "trait_type": "Background Elements",
+            "value": "Thinfilm Protrusion 2"
+        },
+        {
+            "trait_type": "Symbiote",
+            "value": "Fern B Stage 2"
+        },
+        {
+            "trait_type": "Suit",
+            "value": "Red Gambeson"
+        },
+        {
+            "trait_type": "Environment",
+            "value": "Ruins 1"
+        }
+    ]
+}

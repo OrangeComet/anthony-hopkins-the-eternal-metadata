@@ -1,0 +1,39 @@
+{
+    "name": "THE RULER #token_id",
+    "description": "The Ruler is the ultimate leader. When he speaks, the world listens, and is rarely misunderstood. A stable hand, always striving for excellence, unfortunately too easily consumed by power and the urge to dominate.",
+    "image": "https://ipfs.orangecomet.io/ipfs/QmPb5tgbQGWRQ1SN3mu1qyQjb7TKVVRjayfbSyzmnAuSfJ/the-ruler--39.jpg",
+    "attributes": [
+        {
+            "trait_type": "Status",
+            "value": "Distinguished"
+        },
+        {
+            "trait_type": "Archetype",
+            "value": "The Ruler"
+        },
+        {
+            "trait_type": "Featuring",
+            "value": "Sir Anthony Hopkins"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Regular"
+        },
+        {
+            "trait_type": "Environment",
+            "value": "King of Dominance"
+        },
+        {
+            "trait_type": "Weapon",
+            "value": "Corsesca"
+        },
+        {
+            "trait_type": "Armor",
+            "value": "Plate and Mail Armor"
+        },
+        {
+            "trait_type": "Headwear",
+            "value": "Gjermundbu Helmet"
+        }
+    ]
+}

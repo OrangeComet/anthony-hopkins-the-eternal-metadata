@@ -1,0 +1,32 @@
+{
+    "name": "THE LOVER #token_id",
+    "description": "Lovers abandon all to follow their passion. Devotion is their fuel, acting through love and affection to create beauty in the world. Lovers give everything, yet always leave us wanting more.",
+    "image": "https://ipfs.orangecomet.io/ipfs/QmPb5tgbQGWRQ1SN3mu1qyQjb7TKVVRjayfbSyzmnAuSfJ/ah--the-lover.jpg",
+    "attributes": [
+        {
+            "trait_type": "Status",
+            "value": "Legendary"
+        },
+        {
+            "trait_type": "Painting",
+            "value": "TA 01"
+        },
+        {
+            "trait_type": "Environment",
+            "value": "Cavern with Crystals"
+        },
+        {
+            "trait_type": "Suit",
+            "value": "Hand Painted Kimono"
+        },
+        {
+            "trait_type": "Archetype",
+            "value": "The Lover"
+        },
+        {
+            "trait_type": "Featuring",
+            "value": "Sir Anthony Hopkins"
+        }
+    ],
+    "animation_url": "https://ipfs.orangecomet.io/ipfs/QmPb5tgbQGWRQ1SN3mu1qyQjb7TKVVRjayfbSyzmnAuSfJ/ah--the-lover.mp4"
+}

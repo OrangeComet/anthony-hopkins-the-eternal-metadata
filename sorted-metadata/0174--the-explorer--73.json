@@ -1,0 +1,39 @@
+{
+    "name": "THE EXPLORER #token_id",
+    "description": "Yearning for new and unique experiences, The Explorer sets out without a planned destination. We all discover the world around us as much as we explore our own inner mind, constantly searching for novelty and perfection. In the end, that lust can never be fully satisfied.",
+    "image": "https://ipfs.orangecomet.io/ipfs/QmPb5tgbQGWRQ1SN3mu1qyQjb7TKVVRjayfbSyzmnAuSfJ/the-explorer--73.jpg",
+    "attributes": [
+        {
+            "trait_type": "Status",
+            "value": "Distinguished"
+        },
+        {
+            "trait_type": "Archetype",
+            "value": "The Explorer"
+        },
+        {
+            "trait_type": "Featuring",
+            "value": "Sir Anthony Hopkins"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Regular"
+        },
+        {
+            "trait_type": "Environment",
+            "value": "Sci-Fi Corridor"
+        },
+        {
+            "trait_type": "Headwear",
+            "value": "Communications Headset"
+        },
+        {
+            "trait_type": "Hood",
+            "value": "Black Hood"
+        },
+        {
+            "trait_type": "Suit",
+            "value": "Original Signal Suit"
+        }
+    ]
+}

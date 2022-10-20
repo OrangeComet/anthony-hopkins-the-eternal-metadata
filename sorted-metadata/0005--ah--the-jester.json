@@ -1,0 +1,32 @@
+{
+    "name": "THE JESTER #token_id",
+    "description": "Master of subterfuge, the Jester conducts our entire existence under the guise of mindless comedy. Be amazed, as he juggles our world in his hands, elevating earthly elements with ease.",
+    "image": "https://ipfs.orangecomet.io/ipfs/QmPb5tgbQGWRQ1SN3mu1qyQjb7TKVVRjayfbSyzmnAuSfJ/ah--the-jester.jpg",
+    "attributes": [
+        {
+            "trait_type": "Status",
+            "value": "Legendary"
+        },
+        {
+            "trait_type": "Painting",
+            "value": "5 Painted Spheres"
+        },
+        {
+            "trait_type": "Environment",
+            "value": "Sand with Water and Boulders"
+        },
+        {
+            "trait_type": "Suit",
+            "value": "Dark Prophet Robe"
+        },
+        {
+            "trait_type": "Archetype",
+            "value": "The Jester"
+        },
+        {
+            "trait_type": "Featuring",
+            "value": "Sir Anthony Hopkins"
+        }
+    ],
+    "animation_url": "https://ipfs.orangecomet.io/ipfs/QmPb5tgbQGWRQ1SN3mu1qyQjb7TKVVRjayfbSyzmnAuSfJ/ah--the-jester.mp4"
+}

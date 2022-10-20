@@ -1,0 +1,39 @@
+{
+    "name": "THE MAGICIAN #token_id",
+    "description": "The illusionist who pulls tricks right before our eyes, perpetually renewing and changing, manifesting dreams and apparitions simply by distorting reality.  Just be careful, as they are not quite who they seem.",
+    "image": "https://ipfs.orangecomet.io/ipfs/QmPb5tgbQGWRQ1SN3mu1qyQjb7TKVVRjayfbSyzmnAuSfJ/the-magician--77.jpg",
+    "attributes": [
+        {
+            "trait_type": "Status",
+            "value": "Distinguished"
+        },
+        {
+            "trait_type": "Archetype",
+            "value": "The Magician"
+        },
+        {
+            "trait_type": "Featuring",
+            "value": "Sir Anthony Hopkins"
+        },
+        {
+            "trait_type": "Background Elements",
+            "value": "Mineshaft"
+        },
+        {
+            "trait_type": "Head",
+            "value": "Regular"
+        },
+        {
+            "trait_type": "Front Elements",
+            "value": "Butterflies"
+        },
+        {
+            "trait_type": "Lighting",
+            "value": "Noir"
+        },
+        {
+            "trait_type": "Environment",
+            "value": "Icy Lake"
+        }
+    ]
+}

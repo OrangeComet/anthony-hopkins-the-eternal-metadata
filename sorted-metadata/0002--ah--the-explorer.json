@@ -1,0 +1,36 @@
+{
+    "name": "THE EXPLORER #token_id",
+    "description": "Yearning for new and unique experiences, The Explorer sets out without a planned destination. We all discover the world around us as much as we explore our own inner mind, constantly searching for novelty and perfection. In the end, that lust can never be fully satisfied.",
+    "image": "https://ipfs.orangecomet.io/ipfs/QmPb5tgbQGWRQ1SN3mu1qyQjb7TKVVRjayfbSyzmnAuSfJ/ah--the-explorer.jpg",
+    "attributes": [
+        {
+            "trait_type": "Status",
+            "value": "Legendary"
+        },
+        {
+            "trait_type": "Painting",
+            "value": "The Lover"
+        },
+        {
+            "trait_type": "Environment",
+            "value": "Dimensional Portals"
+        },
+        {
+            "trait_type": "Headwear",
+            "value": "Astronaut Helmet with The Lover Painting"
+        },
+        {
+            "trait_type": "Suit",
+            "value": "Orange Astronaut"
+        },
+        {
+            "trait_type": "Archetype",
+            "value": "The Explorer"
+        },
+        {
+            "trait_type": "Featuring",
+            "value": "Sir Anthony Hopkins"
+        }
+    ],
+    "animation_url": "https://ipfs.orangecomet.io/ipfs/QmPb5tgbQGWRQ1SN3mu1qyQjb7TKVVRjayfbSyzmnAuSfJ/ah--the-explorer.mp4"
+}

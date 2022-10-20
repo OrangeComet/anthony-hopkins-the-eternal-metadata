@@ -1,0 +1,39 @@
+{
+    "name": "THE LOVER #token_id",
+    "description": "Lovers abandon all to follow their passion. Devotion is their fuel, acting through love and affection to create beauty in the world. Lovers give everything, yet always leave us wanting more.",
+    "image": "https://ipfs.orangecomet.io/ipfs/QmPb5tgbQGWRQ1SN3mu1qyQjb7TKVVRjayfbSyzmnAuSfJ/the-lover--05.jpg",
+    "attributes": [
+        {
+            "trait_type": "Head",
+            "value": "Regular"
+        },
+        {
+            "trait_type": "Facial Wearable",
+            "value": "Gold Mezzo Volto Mask"
+        },
+        {
+            "trait_type": "Suit",
+            "value": "Blue Silver Silk Robe"
+        },
+        {
+            "trait_type": "Lighting",
+            "value": "Pink Sky"
+        },
+        {
+            "trait_type": "Environment",
+            "value": "Rock Lover Cave"
+        },
+        {
+            "trait_type": "Status",
+            "value": "Distinguished"
+        },
+        {
+            "trait_type": "Archetype",
+            "value": "The Lover"
+        },
+        {
+            "trait_type": "Featuring",
+            "value": "Sir Anthony Hopkins"
+        }
+    ]
+}
