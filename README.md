@@ -72,8 +72,12 @@ Once Chainlink's oracles have generated a random number, the `fulfillRandomWords
 
 ## Frontend Verification
 
-For convenience an [application](https://rng-verification.orangecomet.io/) was developed to take a `fulfillRandomWords` transaction (implemented by an Orange Comet RandomNumberGenerator contract), parse the logs and shuffle the results using [the shuffle method](./src/typescript/tools.ts). The web application also allows us to disqualify certain tokens based on conditions such as already existing utility.
+For convenience an [application](https://rng-verification.orangecomet.io/) was developed to take a `fulfillRandomWords` transaction (implemented by an Orange Comet RandomNumberGenerator contract), parse the logs and shuffle the results using [the shuffle method](./src/typescript/tools.ts). The web application also allows us to disqualify certain tokens based on conditions such as already existing utility and flagged wallets.
 
 ## Results
 
-- Collection Randomization: https://rng-verification.orangecomet.io/0x3383c64edb01f5c5b3cb5484ad7647bdc9583bd05863db4191801d8b9f2b9334
+- [Collection Randomization](https://rng-verification.orangecomet.io/0x3383c64edb01f5c5b3cb5484ad7647bdc9583bd05863db4191801d8b9f2b9334)
+- [Audio Message From Sir Anthony (100 Tokens)](https://rng-verification.orangecomet.io/0x50affeb31edc124c71b788d2c4f81ae6f6c25f15d83aadbc70889229e136f059?ignore=98,157,274,343,489,500,529,774,786,820,283,455,634,635,636,266,267,268)
+- [Dreamscapes Art Book (39 Tokens)](https://rng-verification.orangecomet.io/0x3891504968ae4c79b420008ed22c532ea7fe040d0aaae2e5d09a900e4370a0d9?ignore=98,157,274,343,489,500,529,774,786,820,283,455,634,635,636,266,267,268)
+- [Seat at Zoom Call with Sir Anthony (5 Tokens)](https://rng-verification.orangecomet.io/0xf028b3c192ccbaae2fd9bf644512b5b231ec4a320d4a1856b617a85e8110d8b8?ignore=98,157,274,343,489,500,529,774,786,820,283,455,634,635,636,266,267,268)
+- [One on One with Sir Anthony (1 Token)](https://rng-verification.orangecomet.io/0x5fa098c872760724796b1391a8426f1c3ba32ca7344ea864aeb2903d76bbe1b4?ignore=98,157,274,343,489,500,529,774,786,820,283,455,634,635,636,266,267,268)
